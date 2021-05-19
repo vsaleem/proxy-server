@@ -1,2 +1,427 @@
-
-{"test":{"hello":"world"},"add":[{"id":"123456789012","lin":"123456789012","newLoan":{"obligors":[{"id":"1","isPrimary":true,"firstName":"Alexander","middleName":"B","lastName":"Nagelberg","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000001","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":"alexander.nagelberg@va.gov","genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":"","puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":false,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":false,"vietnamese":false,"white":true},"isEthnicityCollected":true,"isGenderCollected":false,"isRaceCollected":true,"demographicProvidedBy":"FAX_OR_MAIL"},{"id":"2","isPrimary":false,"firstName":"Dwayne","middleName":"The Rock","lastName":"Johnson","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000002","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":null,"genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":false,"puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":true,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":true,"vietnamese":false,"white":true},"isEthnicityCollected":null,"isGenderCollected":null,"isRaceCollected":null,"demographicProvidedBy":null},{"id":"3","isPrimary":false,"firstName":"Arthur","middleName":"Art","lastName":"Vandelay","obligorType":"NON_VETERAN_VETERAN_NOT_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000003","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":"art@vandelayimportexports.com","genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":true,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":false,"otherHispanicOrLatinoOrigin":false,"puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":true,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":true,"vietnamese":false,"white":true},"isEthnicityCollected":true,"isGenderCollected":true,"isRaceCollected":true,"demographicProvidedBy":"FACE_TO_FACE"}],"title":{"mannerHeld":"SOLE_OWNERSHIP","nonObligors":[]}}}],"edit":[{"id":"2","lin":"123456789012","newLoan":{"obligors":[{"id":"1","isPrimary":true,"firstName":"Alexander","middleName":"B","lastName":"Nagelberg","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000001","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":"alexander.nagelberg@va.gov","genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":"","puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":false,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":false,"vietnamese":false,"white":true},"isEthnicityCollected":true,"isGenderCollected":false,"isRaceCollected":true,"demographicProvidedBy":"FACE_TO_FACE"},{"id":"2","isPrimary":false,"firstName":"Dwayne","middleName":"The Rock","lastName":"Johnson","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000002","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":"the@rock.com","genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":false,"puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":true,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":true,"vietnamese":false,"white":true},"isEthnicityCollected":true,"isGenderCollected":true,"isRaceCollected":true,"demographicProvidedBy":"FACE_TO_FACE"}],"title":{"mannerHeld":"SOLE_OWNERSHIP","nonObligors":[]}}}],"search":[{"id":"123456789012","lin":"123456789012","newLoan":{"obligors":[{"id":"1","isPrimary":true,"firstName":"Alexander","middleName":"B","lastName":"Nagelberg","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000001","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":"alexander.nagelberg@va.gov","genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":"","puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":false,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":false,"vietnamese":false,"white":true},"isEthnicityCollected":true,"isGenderCollected":false,"isRaceCollected":true,"demographicProvidedBy":"FAX_OR_MAIL"},{"id":"2","isPrimary":false,"firstName":"Dwayne","middleName":"The Rock","lastName":"Johnson","obligorType":"VETERAN_USING_ENTITLEMENT","certificateOfEligibilityReference":"000001","eligibilityType":"POST_WWII","ssn":"000000002","serviceNumber":"000001","dateOfBirth":21600000,"emailAddress":null,"genderIdentity":{"doesNotWishToProvide":false,"female":false,"male":true,"transgender":false},"ethnicIdentity":{"doesNotWishToProvide":false,"hispanicOrLatino":false,"mexican":false,"nonHispanicOrLatino":true,"otherHispanicOrLatinoOrigin":false,"puertoRican":false,"cuban":false},"racialIdentity":{"americanIndianAlaskanNative":null,"asianIndian":false,"blackOrAfricanAmerican":true,"chinese":false,"doesNotWishToProvide":false,"filipino":false,"guamanianOrChamorro":false,"japanese":false,"korean":false,"nativeHawaiian":false,"otherAsianRace":null,"otherPacificIslanderRace":null,"samoan":true,"vietnamese":false,"white":true},"isEthnicityCollected":null,"isGenderCollected":null,"isRaceCollected":null,"demographicProvidedBy":null}],"fundingFee":{"amountAddedToLoanAmount":14168,"amountNotFinancedPaidByBorrowers":0,"amountNotFinancedPaidByOthers":0,"totalAmountCollected":0,"totalFundingFeeDueForTheLoan":0,"closingDate":21600000,"remittanceDate":21600000,"daysToRemit":15,"lateChargeDue":0,"totalLateInterestDue":0,"totalDueVA":14168},"title":{"mannerHeld":"SOLE_OWNERSHIP","nonObligors":[]}}}]}
+{
+  "test": {
+    "hello": "world"
+  },
+  "add": [
+    {
+      "id": "123456789012",
+      "lin": "123456789012",
+      "newLoan": {
+        "obligors": [
+          {
+            "id": "1",
+            "isPrimary": true,
+            "firstName": "Alexander",
+            "middleName": "B",
+            "lastName": "Nagelberg",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000001",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": "alexander.nagelberg@va.gov",
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": "",
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": false,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": false,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": true,
+            "isGenderCollected": false,
+            "isRaceCollected": true,
+            "demographicProvidedBy": "FAX_OR_MAIL"
+          },
+          {
+            "id": "2",
+            "isPrimary": false,
+            "firstName": "Dwayne",
+            "middleName": "The Rock",
+            "lastName": "Johnson",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000002",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": null,
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": false,
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": true,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": true,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": null,
+            "isGenderCollected": null,
+            "isRaceCollected": null,
+            "demographicProvidedBy": null
+          },
+          {
+            "id": "3",
+            "isPrimary": false,
+            "firstName": "Arthur",
+            "middleName": "Art",
+            "lastName": "Vandelay",
+            "obligorType": "NON_VETERAN_VETERAN_NOT_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000003",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": "art@vandelayimportexports.com",
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": true,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": false,
+              "otherHispanicOrLatinoOrigin": false,
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": true,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": true,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": true,
+            "isGenderCollected": true,
+            "isRaceCollected": true,
+            "demographicProvidedBy": "FACE_TO_FACE"
+          }
+        ],
+        "title": {
+          "mannerHeld": "SOLE_OWNERSHIP",
+          "nonObligors": []
+        },
+        "underwriterInfo": {
+          "underwriterName": null,
+          "vaID": null,
+          "juniorUnderwriter": null,
+          "juniorVaID": null,
+          "nmlsId": null,
+          "underwritingMethod": null,
+          "riskClassification": null,
+          "creditScore": null,
+          "liquidAssets": null,
+          "totalMonthlyGrossIncome": null,
+          "wasSpousalIncomeIncluded": null,
+          "spousalGrossIncome": null,
+          "residualIncome": null,
+          "residualIncomeGuidlines": null,
+          "debtIncomeRatio": null
+        }
+      }
+    }
+  ],
+  "edit": [
+    {
+      "id": "2",
+      "lin": "123456789012",
+      "newLoan": {
+        "obligors": [
+          {
+            "id": "1",
+            "isPrimary": true,
+            "firstName": "Alexander",
+            "middleName": "B",
+            "lastName": "Nagelberg",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000001",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": "alexander.nagelberg@va.gov",
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": "",
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": false,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": false,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": true,
+            "isGenderCollected": false,
+            "isRaceCollected": true,
+            "demographicProvidedBy": "FACE_TO_FACE"
+          },
+          {
+            "id": "2",
+            "isPrimary": false,
+            "firstName": "Dwayne",
+            "middleName": "The Rock",
+            "lastName": "Johnson",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000002",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": "the@rock.com",
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": false,
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": true,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": true,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": true,
+            "isGenderCollected": true,
+            "isRaceCollected": true,
+            "demographicProvidedBy": "FACE_TO_FACE"
+          }
+        ],
+        "title": {
+          "mannerHeld": "SOLE_OWNERSHIP",
+          "nonObligors": []
+        }
+      }
+    }
+  ],
+  "search": [
+    {
+      "id": "123456789012",
+      "lin": "123456789012",
+      "newLoan": {
+        "obligors": [
+          {
+            "id": "1",
+            "isPrimary": true,
+            "firstName": "Alexander",
+            "middleName": "B",
+            "lastName": "Nagelberg",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000001",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": "alexander.nagelberg@va.gov",
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": "",
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": false,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": false,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": true,
+            "isGenderCollected": false,
+            "isRaceCollected": true,
+            "demographicProvidedBy": "FAX_OR_MAIL"
+          },
+          {
+            "id": "2",
+            "isPrimary": false,
+            "firstName": "Dwayne",
+            "middleName": "The Rock",
+            "lastName": "Johnson",
+            "obligorType": "VETERAN_USING_ENTITLEMENT",
+            "certificateOfEligibilityReference": "000001",
+            "eligibilityType": "POST_WWII",
+            "ssn": "000000002",
+            "serviceNumber": "000001",
+            "dateOfBirth": 21600000,
+            "emailAddress": null,
+            "genderIdentity": {
+              "doesNotWishToProvide": false,
+              "female": false,
+              "male": true,
+              "transgender": false
+            },
+            "ethnicIdentity": {
+              "doesNotWishToProvide": false,
+              "hispanicOrLatino": false,
+              "mexican": false,
+              "nonHispanicOrLatino": true,
+              "otherHispanicOrLatinoOrigin": false,
+              "puertoRican": false,
+              "cuban": false
+            },
+            "racialIdentity": {
+              "americanIndianAlaskanNative": null,
+              "asianIndian": false,
+              "blackOrAfricanAmerican": true,
+              "chinese": false,
+              "doesNotWishToProvide": false,
+              "filipino": false,
+              "guamanianOrChamorro": false,
+              "japanese": false,
+              "korean": false,
+              "nativeHawaiian": false,
+              "otherAsianRace": null,
+              "otherPacificIslanderRace": null,
+              "samoan": true,
+              "vietnamese": false,
+              "white": true
+            },
+            "isEthnicityCollected": null,
+            "isGenderCollected": null,
+            "isRaceCollected": null,
+            "demographicProvidedBy": null
+          }
+        ],
+        "fundingFee": {
+          "amountAddedToLoanAmount": 14168,
+          "amountNotFinancedPaidByBorrowers": 0,
+          "amountNotFinancedPaidByOthers": 0,
+          "totalAmountCollected": 0,
+          "totalFundingFeeDueForTheLoan": 0,
+          "closingDate": 21600000,
+          "remittanceDate": 21600000,
+          "daysToRemit": 15,
+          "lateChargeDue": 0,
+          "totalLateInterestDue": 0,
+          "totalDueVA": 14168
+        },
+        "title": {
+          "mannerHeld": "SOLE_OWNERSHIP",
+          "nonObligors": []
+        }
+      }
+    }
+  ]
+}
